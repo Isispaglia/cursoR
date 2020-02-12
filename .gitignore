@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 *.xlsx
+doc
+dados_iris.prn
+README.md
