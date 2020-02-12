@@ -4,3 +4,5 @@
 read.table("./data/dados_iris.txt")
 read.table("data/dados_iris.txt")
 dados_proc <- read.table("data/dados_iris.txt")
+
+###mudando um pouco 
